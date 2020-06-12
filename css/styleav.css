@@ -1,0 +1,133 @@
+body{
+	background-color: #7C5045;
+	font-family: Segoe, "Segoe UI";
+	font-size: 24px;
+	color: #FFFFFF;
+	padding: 20px 0;
+	padding-bottom: 40px;
+	
+}
+
+#body p1{
+	font-size: 12px;
+}
+
+header{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-color: #7C5045;
+	padding: 20px 0;
+	padding-bottom: 40px;
+}
+#header h3{
+	font-size: 30px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#inicio{ 
+background: #FFFDFD;
+color:#000000;
+padding: 5% 0;
+padding-top: 50px; 
+text-align: center;
+}
+
+#inicio h3{
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+}
+
+#inicio h1{
+font-size: 50px;
+font-weight: 700;
+}
+
+.btn-av{
+	background: linear-gradient(to right,#7C5045,#7C5045);
+	color: #fff;
+	text-transform: uppercase;
+	border-radius: 0;
+	padding: 20px 30px;
+	border: 0;
+	letter-spacing: 1px;
+}
+.btn-av:hover{
+background: linear-gradient(to right,#B57C7D,#622B00); 
+transition: all 0.50 ease-in-out;
+	color: #FFFFFF;
+}
+
+.info-servicios{
+	padding-top:100px;
+	paddign-left: 50px;
+	padding-right: 50px;
+}
+
+.titulo{
+	font-size: 40px;
+	font-weigth:600;
+	margin-bottom: 45px;
+	color: #FFFFFF;
+}
+
+#servicios img{
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+}
+
+#acercadenosotrosimagen{
+background: #FFFFFF;
+font-size: 12px;
+text-align: center;
+padding: 20px 0;
+padding-bottom: 100px;
+}
+
+#acercadenosotrosimagen h2{
+font-size: 32px;
+font-weight: 600px;
+color: #000000;
+}
+
+#explicación {
+	background-color: #7C5045;
+	font-family: Segoe, "Segoe UI";
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+#misión{ 
+background: #FFFFFF;
+font-family: Segoe, "Segoe UI";
+font-size: 15px;
+color:#000000;
+padding: 5% 0;
+text-align: center;
+}
+
+#misión h5{
+font-size: 20px;
+font-weight: 700;
+}
+
+#comunicate{
+font-size: 18px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 50px;
+	padding-right: 10px;	
+}
+
+footer{
+	background: #FFFFFF;
+	color: #000000;
+	font-size: 16px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
